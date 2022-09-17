@@ -175,7 +175,7 @@ to monitor simulation
 to generate output 
 ```
 # at <accel-sim-framework> dir
-./util/job_launching/get_stats.py -B my-ispass-2009 -C GTX480,GTX480S | tee stats.csv
+./util/job_launching/get_stats.py -B my-ispass-2009 -C GTX480-PTX,GTX480S-PTX | tee stats.csv
 ```
 
 Try to take a look at the `stats.csv` and focus on `L2_total_cache_accesses` `L1D_total_cache_miss_rate` `gpu_tot_ipc` .
