@@ -185,5 +185,5 @@ Try to take a look at the `stats.csv` and focus on `L2_total_cache_accesses` `L1
 > Why does BFS and NN vary differently on `gpu_tot_ipc`? Can you provide a detailed explanation?
 
 {: .challenge}
-> Can you explain if we want to change the L1 cache to sector why we make those changes at `gpgpusim.config`?
+> Can you explain why we make those changes at `gpgpusim.config` if we want to change the L1 cache to sector?
 
