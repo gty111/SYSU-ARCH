@@ -1,10 +1,10 @@
 ---
 layout: default
-title: VI.Explore ACCEL-SIM and cache
+title: VI.Explore ACCEL-SIM and Cache
 nav_order: 8
 ---
 
-# VI Explore ACCEL-SIM and cache
+# VI Explore ACCEL-SIM and Cache
 {: .no_toc }
 
 ## Table of contents
