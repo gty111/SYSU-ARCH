@@ -25,3 +25,8 @@ color_scheme: light
 aux_links:
   "arcSYSu on github":
     - "//github.com/arcsysu"
+
+nav_external_links:
+  - title: arcSYSu on github
+    url: https://github.com/arcsysu
+    hide_icon: false # set to true to hide the external link icon - defaults to false
