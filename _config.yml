@@ -21,3 +21,7 @@ callouts:
 footer_content: "Supported by <a href=\"https://gty111.github.io\">TianYu GUO</a> and proofreaded by YuHao GU"
 
 color_scheme: light
+
+aux_links:
+  "ARSYSU":
+    - "//github.com/arcsysu"

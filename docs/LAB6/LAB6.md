@@ -6,14 +6,6 @@ has_children: true
 ---
 
 # VI Explore ACCEL-SIM and Cache
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
----
 
 {: .outline}
 > At this part, you will learn ACCEL-SIM and knowledge about cache
