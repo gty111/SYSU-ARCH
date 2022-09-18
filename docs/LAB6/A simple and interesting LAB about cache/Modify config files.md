@@ -2,7 +2,7 @@
 layout: default
 title: Modify config files
 parent: A simple and interesting LAB about cache
-grandparent: VI.Explore ACCEL-SIM and Cache
+grand_parent: VI.Explore ACCEL-SIM and Cache
 nav_order: 2
 ---
 
