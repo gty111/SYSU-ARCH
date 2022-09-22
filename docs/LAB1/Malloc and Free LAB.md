@@ -15,7 +15,7 @@ nav_order: 2
 {:toc}
 ---
 
-{: .highlight}
+{: .outline}
 > At this part, you will create a simObject that focuses on "Malloc and Free" and add some functionalities for it.
 
 ## Problem description
