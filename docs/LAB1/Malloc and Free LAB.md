@@ -34,4 +34,4 @@ You can find template code at [this](https://github.com/gty111/SYSU-ARCH-materia
 
 ## Your task
 
-![task](../../assets/images/malloc_free/task.png))
+![task](../../assets/images/malloc_free/task.png)
