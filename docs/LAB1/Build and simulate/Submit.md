@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Submit
-parent: I.Familiar with GEM5
+grand_parent: I.Familiar with GEM5
+parent: Build and simulate
 nav_order: 4
 ---
 
