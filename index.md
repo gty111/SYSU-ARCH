@@ -25,6 +25,8 @@ After finishing SYSU-ARCH, you will learn
 
 ## Related LABs
 
+- [YSYX](https://ysyx.oscc.cc/)
+
 - [NJU PA](https://ysyx.oscc.cc/docs/ics-pa/)
 
 - [CSAPP](http://www.csapp.cs.cmu.edu/3e/labs.html)
