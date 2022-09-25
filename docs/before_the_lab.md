@@ -18,4 +18,4 @@ nav_order: 2
 
 - In your report, you should give proper introduction about your work including answering the questions or completing the challenge part and so on.
 
-- If you find/have some problems about SYSU-ARCH, please issue at [this](https://github.com/gty111/SYSU-ARCH) or contact `guoty9[AT]mail2.sysu.edu.cn`
+- If you find/have some problems/tips about SYSU-ARCH, please issue at [this](https://github.com/gty111/SYSU-ARCH) or contact `guoty9[AT]mail2.sysu.edu.cn`
