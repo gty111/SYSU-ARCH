@@ -20,5 +20,5 @@ nav_order: 2
 
 - If you find/have some problems/tips about SYSU-ARCH, please 
   - [![Disscussions](https://img.shields.io/github/discussions/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH/discussions)
-  - [![Issue](https://img.shields.io/github/issues/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH/discussions)
+  - [![Issue](https://img.shields.io/github/issues/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH/issues)
   - contact `guoty9[AT]mail2.sysu.edu.cn`
