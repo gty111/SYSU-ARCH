@@ -31,5 +31,6 @@ All contents are subject to this LAB.
 
 ## 5. I found some bugs/problems in this LAB. Where should I issue them?
 
-- issue at [this](https://github.com/gty111/SYSU-ARCH)(recommend) 
-- contact `guoty9[AT]mail2.sysu.edu.cn` 
+- [![Disscussions](https://img.shields.io/github/discussions/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH/discussions)
+- [![Issue](https://img.shields.io/github/issues/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH/discussions)
+- contact `guoty9[AT]mail2.sysu.edu.cn`
