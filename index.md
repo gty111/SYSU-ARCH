@@ -6,6 +6,8 @@ nav_order: 1
 
 # SYSU-ARCH
 
+## Introduction
+
 {: .highlight}
 > version 2022F
 
@@ -21,4 +23,21 @@ After finishing SYSU-ARCH, you will learn
 {: .highlight}
 > reference [GEM5 101](https://www.gem5.org/documentation/learning_gem5/gem5_101/)(add **changes** to fit current version of GEM5 and new ideas)
 
-## [Dark Mode](https://gty111.github.io/SYSU-ARCH-dark)
+## Related LABs
+
+- [NJU PA](https://ysyx.oscc.cc/docs/ics-pa/)
+
+- [CSAPP](http://www.csapp.cs.cmu.edu/3e/labs.html)
+
+- [6.S081](https://pdos.csail.mit.edu/6.S081/2021/index.html)
+
+- [NJU OS](https://jyywiki.cn/OS/2022/)
+
+- [SYsU-lang](https://github.com/arcsysu/SYsU-lang)
+
+## Related Web
+
+- [CSDIY](https://csdiy.wiki/)
+
+> {: .highlight}
+> CS-related experiments are integrated here

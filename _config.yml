@@ -23,8 +23,8 @@ footer_content: "Supported by <a href=\"https://gty111.github.io\">TianYu GUO</a
 color_scheme: light
 
 aux_links:
-  "arcSYSu on github":
-    - "//github.com/arcsysu"
+  "Dark Mode":
+    - "//gty111.github.io/SYSU-ARCH-dark"
 
 nav_external_links:
   - title: arcSYSu on github
