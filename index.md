@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# SYSU-ARCH ![Stars](https://img.shields.io/github/stars/gty111/SYSU-ARCH)
+# SYSU-ARCH [![Stars](https://img.shields.io/github/stars/gty111/SYSU-ARCH)](https://github.com/gty111/SYSU-ARCH)
 
 ## Introduction
 
