@@ -17,3 +17,5 @@ nav_order: 2
 - Label `challenge` means this part of content is a little difficult, you can skip it or do your best to solve it
 
 - In your report, you should give proper introduction about your work including answering the questions or completing the challenge part and so on.
+
+- If you find/have some problems about SYSU-ARCH, please issue at [this](https://github.com/gty111/SYSU-ARCH) or contact `guoty9[AT]mail2.sysu.edu.cn`
